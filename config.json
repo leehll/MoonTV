@@ -93,7 +93,7 @@
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "jkun"
     }
-    "CK": {
+    "ck": {
       "api": "https://www.ckzy1.com/api.php/provide/vod",
       "name": "ck"
     }
@@ -101,7 +101,7 @@
       "api": "https://155api.com/api.php/provide/vod",
       "name": "155"
     }
-    "91麻豆": {
+    "91": {
       "api": "https://91md.me/api.php/provide/vod",
       "name": "91麻豆"
     }
